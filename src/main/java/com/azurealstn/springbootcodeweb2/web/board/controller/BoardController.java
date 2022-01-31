@@ -1,7 +1,7 @@
 package com.azurealstn.springbootcodeweb2.web.board.controller;
 
 import com.azurealstn.springbootcodeweb2.web.board.dto.BoardDTO;
-import com.azurealstn.springbootcodeweb2.web.board.dto.PageRequestDTO;
+import com.azurealstn.springbootcodeweb2.web.cmmn.dto.PageRequestDTO;
 import com.azurealstn.springbootcodeweb2.web.board.service.BoardService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

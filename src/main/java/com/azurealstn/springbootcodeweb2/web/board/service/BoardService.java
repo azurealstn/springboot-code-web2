@@ -3,8 +3,8 @@ package com.azurealstn.springbootcodeweb2.web.board.service;
 import com.azurealstn.springbootcodeweb2.domain.board.Board;
 import com.azurealstn.springbootcodeweb2.domain.member.Member;
 import com.azurealstn.springbootcodeweb2.web.board.dto.BoardDTO;
-import com.azurealstn.springbootcodeweb2.web.board.dto.PageRequestDTO;
-import com.azurealstn.springbootcodeweb2.web.board.dto.PageResultDTO;
+import com.azurealstn.springbootcodeweb2.web.cmmn.dto.PageRequestDTO;
+import com.azurealstn.springbootcodeweb2.web.cmmn.dto.PageResultDTO;
 
 public interface BoardService {
 

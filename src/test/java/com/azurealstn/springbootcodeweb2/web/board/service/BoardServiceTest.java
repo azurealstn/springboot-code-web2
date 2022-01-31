@@ -1,13 +1,11 @@
 package com.azurealstn.springbootcodeweb2.web.board.service;
 
 import com.azurealstn.springbootcodeweb2.web.board.dto.BoardDTO;
-import com.azurealstn.springbootcodeweb2.web.board.dto.PageRequestDTO;
-import com.azurealstn.springbootcodeweb2.web.board.dto.PageResultDTO;
+import com.azurealstn.springbootcodeweb2.web.cmmn.dto.PageRequestDTO;
+import com.azurealstn.springbootcodeweb2.web.cmmn.dto.PageResultDTO;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
 class BoardServiceTest {

@@ -1,4 +1,4 @@
-package com.azurealstn.springbootcodeweb2.web.board.dto;
+package com.azurealstn.springbootcodeweb2.web.cmmn.dto;
 
 import lombok.Data;
 import org.springframework.data.domain.Page;
